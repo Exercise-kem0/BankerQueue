@@ -1,6 +1,6 @@
 # BankerQueue
 this Project simulate banker Queue system in banks
 
-##following Venkat c#85 Tutorials
+## following Venkat c#85 Tutorials
 
-####in last july 2024
+#### in last july 2024
